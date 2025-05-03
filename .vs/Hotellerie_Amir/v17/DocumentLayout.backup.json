@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\controllers\\appreciationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\controllers\\appreciationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\models\\hotelleriemodel\\appreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\models\\hotelleriemodel\\appreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\hotels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\hotels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\models\\hotelleriemodel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\models\\hotelleriemodel\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\models\\hotelleriemodel\\hotelleriedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\models\\hotelleriemodel\\hotelleriedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\hotels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\hotels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\migrations\\20250503081926_ajout_table_appreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\migrations\\20250503081926_ajout_table_appreciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\migrations\\20250503084647_ajout_payshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\migrations\\20250503084647_ajout_payshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\migrations\\20250503083751_ajout_note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\migrations\\20250503083751_ajout_note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\migrations\\hotelleriedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\migrations\\hotelleriedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\migrations\\20250426093330_ajouttel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\migrations\\20250426093330_ajouttel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\hotels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\hotels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\hotels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\hotels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|c:\\users\\user\\source\\repos\\hotellerie_amir\\hotellerie_amir\\views\\hotels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D127FA38-77A4-4C5B-B3D1-E537E0AC3FFC}|Hotellerie_Amir\\Hotellerie_Amir.csproj|solutionrelative:hotellerie_amir\\views\\hotels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Hotels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Index.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Hotels\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:44:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Models\\HotellerieModel\\Hotel.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Models\\HotellerieModel\\Hotel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Models\\HotellerieModel\\Hotel.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Models\\HotellerieModel\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:29:50.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Hotels\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Create.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Hotels\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:40:27.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:45:11.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appreciation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Models\\HotellerieModel\\Appreciation.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Models\\HotellerieModel\\Appreciation.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Models\\HotellerieModel\\Appreciation.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Models\\HotellerieModel\\Appreciation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:03:21.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppreciationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Controllers\\AppreciationController.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Controllers\\AppreciationController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Controllers\\AppreciationController.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Controllers\\AppreciationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:20:48.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T09:03:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotellerieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:04:10.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:47:10.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Program.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Program.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:55:08.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:45:14.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:08:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:12:10.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250503081926_ajout_table_appreciation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250503081926_ajout_table_appreciation.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Migrations\\20250503081926_ajout_table_appreciation.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250503081926_ajout_table_appreciation.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Migrations\\20250503081926_ajout_table_appreciation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:19:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250503084647_ajout_paysHotel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250503084647_ajout_paysHotel.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Migrations\\20250503084647_ajout_paysHotel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250503084647_ajout_paysHotel.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Migrations\\20250503084647_ajout_paysHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:46:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:47:14.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250503083751_ajout_note.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250503083751_ajout_note.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Migrations\\20250503083751_ajout_note.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250503083751_ajout_note.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Migrations\\20250503083751_ajout_note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:37:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250426093330_ajoutTel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250426093330_ajoutTel.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Migrations\\20250426093330_ajoutTel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\20250426093330_ajoutTel.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Migrations\\20250426093330_ajoutTel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:33:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotellerieDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\HotellerieDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Migrations\\HotellerieDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Migrations\\HotellerieDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Hotellerie_Amir\\Migrations\\HotellerieDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:22:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\appsettings.json",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\appsettings.json",
+              "RelativeToolTip": "Hotellerie_Amir\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T07:51:21.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Hotels\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Edit.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Hotels\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:44:26.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Details.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Hotels\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Details.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Hotels\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:44:05.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotellerie_Amir\\Views\\Hotels\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Hotellerie_Amir\\Hotellerie_Amir\\Views\\Hotels\\Delete.cshtml",
+              "RelativeToolTip": "Hotellerie_Amir\\Views\\Hotels\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:42:23.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
